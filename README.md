@@ -1,14 +1,14 @@
 <h1 align="center">
   <a href="https://duoxpy.site">
-    <img src="https://github.com/Chromeyc/DuoXPy-Stripe/blob/main/images/transparent_banner.png?raw=true" alt="DuoXPy Stripe Banner" height="160" />
+    <img src="https://github.com/4qu8/DuoXPy-Stripe/blob/main/images/transparent_banner.png?raw=true" alt="DuoXPy Stripe Banner" height="160" />
   </a>
 </h1>
 
 <p align="center"><i>The ultimate Stripe-integrated subscription bot for Discord 💳</i></p>
 
 <p align="center">
-  <a href="https://github.com/Chromeyc/DuoXPy-Stripe/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors-anon/Chromeyc/DuoXPy-Stripe?style=flat-square">
+  <a href="https://github.com/4qu8/DuoXPy-Stripe/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors-anon/4qu8/DuoXPy-Stripe?style=flat-square">
   </a>
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-Custom-lightgrey.svg?style=flat-square">
@@ -19,7 +19,7 @@
   <a href="https://discord.gg/kPx28kdwap">
     <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=flat-square&logo=discord">
   </a>
-  <a href="https://github.com/Chromeyc/DuoXPy-Stripe">
+  <a href="https://github.com/4qu8/DuoXPy-Stripe">
     <img src="https://img.shields.io/github/stars/DuoXPy/DuoXPy-Stripe?style=social" alt="GitHub stars">
   </a>
 </p>
@@ -39,7 +39,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Chromeyc/DuoXPy-Stripe.git
+git clone https://github.com/4qu8/DuoXPy-Stripe.git
 cd DuoXPy
 ```
 
@@ -140,5 +140,5 @@ This project is licensed under the [DuoXPy License](./LICENSE).
 ---
 
 <p align="center">
-  <i>Crafted with ❤️ by <a href="https://github.com/Chromeyc">Chromeyc</a></i>
+  <i>Crafted with ❤️ by <a href="https://github.com/4qu8">4qu8</a></i>
 </p>
